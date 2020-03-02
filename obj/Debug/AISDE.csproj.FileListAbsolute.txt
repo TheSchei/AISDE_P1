@@ -1,0 +1,7 @@
+C:\Users\Pawel.DESKTOP-HG637IO\source\repos\AISDE\AISDE\bin\Debug\AISDE.exe.config
+C:\Users\Pawel.DESKTOP-HG637IO\source\repos\AISDE\AISDE\bin\Debug\AISDE.exe
+C:\Users\Pawel.DESKTOP-HG637IO\source\repos\AISDE\AISDE\bin\Debug\AISDE.pdb
+C:\Users\Pawel.DESKTOP-HG637IO\source\repos\AISDE\AISDE\obj\Debug\AISDE.csprojAssemblyReference.cache
+C:\Users\Pawel.DESKTOP-HG637IO\source\repos\AISDE\AISDE\obj\Debug\AISDE.csproj.CoreCompileInputs.cache
+C:\Users\Pawel.DESKTOP-HG637IO\source\repos\AISDE\AISDE\obj\Debug\AISDE.exe
+C:\Users\Pawel.DESKTOP-HG637IO\source\repos\AISDE\AISDE\obj\Debug\AISDE.pdb
